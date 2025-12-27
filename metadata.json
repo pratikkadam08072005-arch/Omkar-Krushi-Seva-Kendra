@@ -1,0 +1,9 @@
+{
+  "name": "Omkar Krushi Udhyog",
+  "description": "An advanced agricultural management and advisory platform featuring AI crop diagnosis, real-time market insights via search grounding, and a voice-enabled farm assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
